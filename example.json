@@ -1,0 +1,38 @@
+{
+	"usd": {
+		"code": "USD",
+		"alphaCode": "USD",
+		"numericCode": "840",
+		"name": "U.S. Dollar",
+		"rate": 1.166818234214,
+		"date": "Fri, 13 Jul 2018 12:00:01 GMT",
+		"inverseRate": 0.85703151585869
+	},
+	"uah": {
+		"code": "UAH",
+		"alphaCode": "UAH",
+		"numericCode": "980",
+		"name": "Ukrainian Hryvnia",
+		"rate": 30.600090113162,
+		"date": "Fri, 13 Jul 2018 12:00:01 GMT",
+		"inverseRate": 0.032679642324643
+	},
+	"pln": {
+		"code": "PLN",
+		"alphaCode": "PLN",
+		"numericCode": "985",
+		"name": "Polish Zloty",
+		"rate": 4.3328077170821,
+		"date": "Fri, 13 Jul 2018 12:00:01 GMT",
+		"inverseRate": 0.23079722556288
+	},
+	"czk": {
+		"code": "CZK",
+		"alphaCode": "CZK",
+		"numericCode": "203",
+		"name": "Czech Koruna",
+		"rate": 25.983251549754,
+		"date": "Fri, 13 Jul 2018 12:00:01 GMT",
+		"inverseRate": 0.038486330245665
+	}
+}
